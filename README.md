@@ -1,6 +1,2 @@
-Restaurant
-==========
-
-A template for Restaurant business
-# project1
-# project1
+# https://bilal74.github.io/Resturant_Website/
+# Restaurant Website
